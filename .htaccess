@@ -1,4 +1,12 @@
 RewriteEngine On
+
+# Rule 1: Redirect requests for .html to .php if the .php file exists
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^([a-zA-Z0-9_-]+)\.html$ $1.php [L]
+
+# Rule 2: Handle clean URLs (without .php or .html extensions)
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^([a-zA-Z0-9_-]+)$ $1.php [L]

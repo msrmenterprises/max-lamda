@@ -76,8 +76,8 @@
                                                 <li><a href="safety.html">Safety</a></li>
                                                 <li><a href="consumables.html">Consumables</a></li>
                                                 <li><a href="electrical.html">Electrical</a></li>
-                                                <li><a href="spares.html">Spares</a></li>
                                                 <li><a href="communication.html">Communication</a></li>
+                                                <li><a href="spares.html">Spares</a></li>
                                                 <li><a href="general.html">General Items</a></li>
 
                                             </ul>

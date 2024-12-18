@@ -243,11 +243,10 @@
 <div class="client-section section-padding pt-0">
     <div class="container">
         <div class="row align-items-center mt-120">
+            <div><h2 class="brandssupp">BRANDS SUPPORTED</h2></div>
             <div class="col-12">
                 <div class="client-wrap owl-carousel">
-                    <div class="single-client">
-                        <a href="#"><img src="images/ilogo1.png" alt=""></a>
-                    </div>
+                   
                    
                     <div class="single-client">
                         <a href="#"><img src="images/vlogo6.png" alt=""></a>

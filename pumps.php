@@ -80,7 +80,7 @@
                         <li><i class="las la-check-square"></i><p>Gear</p></li>
                         <li><i class="las la-check-square"></i><p>Triplex</p></li>
                         <li><i class="las la-check-square"></i><p>Hydraulic</p></li>
-                        <li><i class="las la-check-square"></i><p>Spares and Spares Kits</p></li>
+                        <li><i class="las la-check-square"></i><p><?php include('utils/includ.php') ?>s</p></li>
                     </ul>
                 </div>
             </div>

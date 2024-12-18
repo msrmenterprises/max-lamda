@@ -226,7 +226,7 @@
                             <p>Hydraulic</p>
                         </li>
                         <li><i class="las la-check-square"></i>
-                            <p>Spares and Spares Kit</p>
+                            <p><?php include('utils/includ.php') ?></p>
                         </li>
                         
                     </ul>

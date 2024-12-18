@@ -108,23 +108,8 @@
 
 <!-- Footer Area -->
 <footer class="footer-area">
-    <div class="container">
-        <div class="footer-up">
-            <div class="row">
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                    <a href="index.html" class="logo">Max Lambda</a>
-                    <p>Operations in Mauritius, Cote D'Voir, Ghana, Nigeria, Namibia</p>
-                </div>
-                <div class="col-lg-6 col-md-6">
-                    <h5>Office</h5>
-                    <p>Procurement office - UK, USA & Dubai</p>
-                    <p>info@Max Lambda.net | info@max-lambda.com</p>
-                    <p>+225-0101828249  | +233-544057517 | +233-553019058</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</footer>
+       <?php include('utils/footer.php') ?>
+    </footer>
 
 <!-- Footer Bottom Area -->
 <div class="footer-bottom">

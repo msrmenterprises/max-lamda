@@ -1,12 +1,17 @@
 RewriteEngine On
 
-# Rule 1: Redirect requests for .html to .php if the .php file exists
+# Handle requests ending in .html by rewriting to .php
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.php -f
-RewriteRule ^([a-zA-Z0-9_-]+)\.html$ $1.php [L]
+RewriteRule ^(.*)\.html$ $1.php [L]
 
-# Rule 2: Handle clean URLs (without .php or .html extensions)
+# Handle clean URLs by rewriting to .php
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^([a-zA-Z0-9_-]+)$ $1.php [L]
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php [L]
+
+# Optional: Redirect .html URLs to clean URLs for SEO (301 redirect)
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)\.html$ /$1 [R=301,L]

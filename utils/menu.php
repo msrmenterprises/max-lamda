@@ -1,5 +1,5 @@
 <ul>
-    <li class="active"><a class="navlink" href="index.html">Home</a></li>
+    <li class="active"><a class="navlink" href="index">Home</a></li>
     <li><a class="navlink" href="#">Engineering Divisions</a>
         <ul class="sub-menu">
                         <li><a href="mechanical.html">Mechanical</a></li>

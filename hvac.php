@@ -77,6 +77,8 @@
                         <li><i class="las la-check-square"></i><p>Blowers</p></li>
                         <li><i class="las la-check-square"></i><p>Axial Fans</p></li>
                         <li><i class="las la-check-square"></i><p>Condenser Skid</p></li>
+                        <li><i class="las la-check-square"></i><p>Spares and spares kit</p></li>
+                        
                     </ul>
                 </div>
             </div>

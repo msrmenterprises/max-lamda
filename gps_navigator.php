@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
-    <title>Max Lambda - Detector</title>
+    <title>Max Lambda - GPS Navigators</title>
     <!-- Favicon -->
     <link rel="icon" href="img/favicon.png" type="image/png">
     <!-- Bootstrap CSS -->
@@ -32,30 +32,7 @@
                 <div class="header-inner-box">
                     <div class="logo"><a class="navbar-brand" href="index.html">Max Lambda</a></div>
                     <div class="main-menu d-none d-lg-block">
-                        <ul>
-                            <li><a class="navlink" href="index.html">Home</a></li>
-                            <li><a class="navlink" href="#">Offerings</a>
-                                <ul class="sub-menu">
-                                    <li><a href="mechanical.html">Mechanical</a></li>
-                                    <li><a href="instrumentation.html">Instrumentation</a></li>
-                                    <li><a href="safety.html">Safety</a></li>
-                                    <li><a href="consumables.html">Consumables</a></li>
-                                    <li><a href="electrical.html">Electrical</a></li>
-                                    <li><a href="spares.html">Spares</a></li>
-                                    <li><a href="communication.html">Communication</a></li>
-                                    <li><a href="general.html">General Items</a></li>
-                                </ul>
-                            </li>
-                            <li><a class="navlink" href="#">Product Portfolio</a>
-                                <ul class="sub-menu">
-                                    <li><a href="safety.html">Safety</a></li>
-                                    <li><a href="instrumentation.html">Instrumentation</a></li>
-                                    <li><a href="valves.html">Valves, Pipes & Fittings</a></li>
-                                    <li><a href="general.html">General</a></li>
-                                </ul>
-                            </li>
-                            <li><a class="navlink" href="contact.html">Contact Us</a></li>
-                        </ul>
+                        <?php include('utils/menu.php') ?>
                     </div>
                 </div>
             </div>
@@ -70,7 +47,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-6 text-center">
                 <div class="breadcrumb-title">
-                    <h1>DETECTOR</h1>
+                    <h1>GPS NAVIGATORS</h1>
                 </div>
             </div>
         </div>
@@ -84,23 +61,21 @@
             <div class="col-xl-6 col-lg-6">
                 <div class="about-img-wrap">
                     <div class="image-one">
-                        <img src="images/detectors.png" alt="">
+                        <img src="images/gps_navigators.jpg" alt="">
                     </div>                        
                 </div>
             </div>
             <div class="col-xl-6 col-lg-6">
                 <div class="about-content-wrap">
                     <div class="section-title">
-                        <h2>DETECTORS</h2>
+                        <h2>GPS NAVIGATORS</h2>
                     </div>
-                    <p>Pipes and fittings are essential components in industrial systems, providing reliable connections for fluid and gas transport.</p>
+                    <p>GPS Navigators offer accurate location tracking and navigation support, essential for transport, exploration, and emergency services.</p>
                     <ul class="about-key mt-30">
-                        <li><i class="las la-check-square"></i><p>Resistance Temperature</p></li>
-                        <li><i class="las la-check-square"></i><p>Gas</p></li>
-                        <li><i class="las la-check-square"></i><p>Spares and spares kits</p></li>
-                        <li><i class="las la-check-square"></i><p>Calibration Kits</p></li>
-                        <li><i class="las la-check-square"></i><p>Smoke & Heat</p></li>
-                        <li><i class="las la-check-square"></i><p>Fire</p></li>
+                        <li><i class="las la-check-square"></i><p>Vehicle GPS Systems</p></li>
+                        <li><i class="las la-check-square"></i><p>Handheld GPS Devices</p></li>
+                        <li><i class="las la-check-square"></i><p>Marine GPS Systems</p></li>
+                        <li><i class="las la-check-square"></i><p>Tracking GPS Devices</p></li>
                     </ul>
                 </div>
             </div>
@@ -114,12 +89,9 @@
         <div class="row align-items-center mt-120">
             <div class="col-12">
                 <div class="client-wrap owl-carousel">
-                    <div class="single-client"><a href="#"><img src="images/msa.png" alt="MSA"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/honeywell.png" alt="Honeywell"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/emerson.png" alt="Emerson"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/beamex.png" alt="Beamex"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/drager.png" alt="Drager"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/tyco.png" alt="Tyco"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/garmin.png" alt="Garmin"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/tomtom.png" alt="TomTom"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/magellan.png" alt="Magellan"></a></div>
                 </div>
             </div>
         </div>

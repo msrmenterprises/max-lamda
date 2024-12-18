@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
-    <title>Max Lambda - Meters</title>
+    <title>Max Lambda - Transmitters</title>
     <!-- Favicon -->
     <link rel="icon" href="img/favicon.png" type="image/png">
     <!-- Bootstrap CSS -->
@@ -32,30 +32,7 @@
                 <div class="header-inner-box">
                     <div class="logo"><a class="navbar-brand" href="index.html">Max Lambda</a></div>
                     <div class="main-menu d-none d-lg-block">
-                        <ul>
-                            <li><a class="navlink" href="index.html">Home</a></li>
-                            <li><a class="navlink" href="#">Offerings</a>
-                                <ul class="sub-menu">
-                                    <li><a href="mechanical.html">Mechanical</a></li>
-                                    <li><a href="instrumentation.html">Instrumentation</a></li>
-                                    <li><a href="safety.html">Safety</a></li>
-                                    <li><a href="consumables.html">Consumables</a></li>
-                                    <li><a href="electrical.html">Electrical</a></li>
-                                    <li><a href="spares.html">Spares</a></li>
-                                    <li><a href="communication.html">Communication</a></li>
-                                    <li><a href="general.html">General Items</a></li>
-                                </ul>
-                            </li>
-                            <li><a class="navlink" href="#">Product Portfolio</a>
-                                <ul class="sub-menu">
-                                    <li><a href="safety.html">Safety</a></li>
-                                    <li><a href="instrumentation.html">Instrumentation</a></li>
-                                    <li><a href="valves.html">Valves, Pipes & Fittings</a></li>
-                                    <li><a href="general.html">General</a></li>
-                                </ul>
-                            </li>
-                            <li><a class="navlink" href="contact.html">Contact Us</a></li>
-                        </ul>
+                        <?php include('utils/menu.php') ?>
                     </div>
                 </div>
             </div>
@@ -70,7 +47,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-6 text-center">
                 <div class="breadcrumb-title">
-                    <h1>METERS</h1>
+                    <h1>TRANSMITTERS</h1>
                 </div>
             </div>
         </div>
@@ -84,21 +61,23 @@
             <div class="col-xl-6 col-lg-6">
                 <div class="about-img-wrap">
                     <div class="image-one">
-                        <img src="images/meters.png" alt="">
+                        <img src="images/transmitters.png" alt="">
                     </div>                        
                 </div>
             </div>
             <div class="col-xl-6 col-lg-6">
                 <div class="about-content-wrap">
                     <div class="section-title">
-                        <h2>METERS</h2>
+                        <h2>TRANSMITTERS</h2>
                     </div>
-                    <p>Meters provide critical measurement and display of fluid flow, electrical parameters, and gas consumption in industrial systems.</p>
+                    <p>Transmitters are vital for converting physical measurements into signals for monitoring and control systems.</p>
                     <ul class="about-key mt-30">
-                        <li><i class="las la-check-square"></i><p>Flow Meters</p></li>
-                        <li><i class="las la-check-square"></i><p>Electric Meters</p></li>
-                        <li><i class="las la-check-square"></i><p>Gas Meters</p></li>
-                        <li><i class="las la-check-square"></i><p>Energy Meters</p></li>
+                        <li><i class="las la-check-square"></i><p>Pressure</p></li>
+                        <li><i class="las la-check-square"></i><p>Temperature</p></li>
+                        <li><i class="las la-check-square"></i><p>Level</p></li>
+                        <li><i class="las la-check-square"></i><p>Universal</p></li>
+                        <li><i class="las la-check-square"></i><p>Humidity</p></li>
+                        <li><i class="las la-check-square"></i><p>Radar</p></li>
                     </ul>
                 </div>
             </div>
@@ -112,10 +91,10 @@
         <div class="row align-items-center mt-120">
             <div class="col-12">
                 <div class="client-wrap owl-carousel">
-                    <div class="single-client"><a href="#"><img src="images/fluke.png" alt="fluke"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/honeywell.png" alt="honeywell"></a></div>
                     <div class="single-client"><a href="#"><img src="images/yokogawa.png" alt="yokogawa"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/emerson.png" alt="emerson"></a></div>
                     <div class="single-client"><a href="#"><img src="images/endress.png" alt="endress"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/brooks.png" alt="brooks"></a></div>
                 </div>
             </div>
         </div>

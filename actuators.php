@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
-    <title>Max Lambda - Lubricants</title>
+    <title>Max Lambda - Actuators</title>
     <!-- Favicon -->
     <link rel="icon" href="img/favicon.png" type="image/png">
     <!-- Bootstrap CSS -->
@@ -32,30 +32,7 @@
                 <div class="header-inner-box">
                     <div class="logo"><a class="navbar-brand" href="index.html">Max Lambda</a></div>
                     <div class="main-menu d-none d-lg-block">
-                        <ul>
-                            <li><a class="navlink" href="index.html">Home</a></li>
-                            <li><a class="navlink" href="#">Offerings</a>
-                                <ul class="sub-menu">
-                                    <li><a href="mechanical.html">Mechanical</a></li>
-                                    <li><a href="instrumentation.html">Instrumentation</a></li>
-                                    <li><a href="safety.html">Safety</a></li>
-                                    <li><a href="consumables.html">Consumables</a></li>
-                                    <li><a href="electrical.html">Electrical</a></li>
-                                    <li><a href="spares.html">Spares</a></li>
-                                    <li><a href="communication.html">Communication</a></li>
-                                    <li><a href="general.html">General Items</a></li>
-                                </ul>
-                            </li>
-                            <li><a class="navlink" href="#">Product Portfolio</a>
-                                <ul class="sub-menu">
-                                    <li><a href="safety.html">Safety</a></li>
-                                    <li><a href="instrumentation.html">Instrumentation</a></li>
-                                    <li><a href="valves.html">Valves, Pipes & Fittings</a></li>
-                                    <li><a href="general.html">General</a></li>
-                                </ul>
-                            </li>
-                            <li><a class="navlink" href="contact.html">Contact Us</a></li>
-                        </ul>
+                        <?php include('utils/menu.php') ?>
                     </div>
                 </div>
             </div>
@@ -70,7 +47,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-6 text-center">
                 <div class="breadcrumb-title">
-                    <h1>LUBRICANTS</h1>
+                    <h1>ACTUATORS</h1>
                 </div>
             </div>
         </div>
@@ -84,29 +61,21 @@
             <div class="col-xl-6 col-lg-6">
                 <div class="about-img-wrap">
                     <div class="image-one">
-                        <img src="images/lubricant.png" alt="">
+                        <img src="images/actuators.png" alt="">
                     </div>                        
                 </div>
             </div>
             <div class="col-xl-6 col-lg-6">
                 <div class="about-content-wrap">
                     <div class="section-title">
-                        <h2>LUBRICANTS</h2>
+                        <h2>ACTUATORS</h2>
                     </div>
-                    <p>Lubricants reduce wear and tear, enhance performance, and ensure smooth operations across industrial equipment.</p>
+                    <p>Actuators convert energy into mechanical motion, enabling precise control in various industrial processes.</p>
                     <ul class="about-key mt-30">
-                        <li><i class="las la-check-square"></i><p>Engine
-                            Coolants/Antifreeze</p></li>
-                        <li><i class="las la-check-square"></i><p>Multi-purpose
-                            Lubricants</p></li>
-                        <li><i class="las la-check-square"></i><p>Hydraulic Oils</p></li>
-                        <li><i class="las la-check-square"></i><p>Industrial Gear Oils</p></li>
-                        <li><i class="las la-check-square"></i><p>Marine Oils</p></li>
-                        <li><i class="las la-check-square"></i><p>Aviation Oils</p></li>
-                        <li><i class="las la-check-square"></i><p>Compressor Oils</p></li>
-                        <li><i class="las la-check-square"></i><p>Industrial Oils</p></li>
-                        <li><i class="las la-check-square"></i><p>Refrigeration Oils</p></li>
-                        <li><i class="las la-check-square"></i><p>Greases                        </p></li>
+                        <li><i class="las la-check-square"></i><p>Linear Actuators</p></li>
+                        <li><i class="las la-check-square"></i><p>Rotary Actuators</p></li>
+                        <li><i class="las la-check-square"></i><p>Hydraulic Actuators</p></li>
+                        <li><i class="las la-check-square"></i><p>Electric Actuators</p></li>
                     </ul>
                 </div>
             </div>
@@ -120,12 +89,12 @@
         <div class="row align-items-center mt-120">
             <div class="col-12">
                 <div class="client-wrap owl-carousel">
-                    <div class="single-client"><a href="#"><img src="images/mobil.png" alt="Mobil"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/shell.png" alt="Shell"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/castrol.png" alt="Castrol"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/fleetguard.png" alt="fleetguard"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/coltri.png" alt="coltri"></a></div>
-                  
+                    <div class="single-client"><a href="#"><img src="images/morin.png" alt="morin"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/schischek.png" alt="schischek"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/biffi.png" alt="biffi"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/koso.png" alt="koso"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/rotork.png" alt="rotork"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/velan.png" alt="velan"></a></div>
                 </div>
             </div>
         </div>

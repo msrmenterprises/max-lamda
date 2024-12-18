@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
-    <title>Max Lambda - Compressors</title>
+    <title>Max Lambda - Radios & Transponders</title>
     <!-- Favicon -->
     <link rel="icon" href="img/favicon.png" type="image/png">
     <!-- Bootstrap CSS -->
@@ -32,30 +32,7 @@
                 <div class="header-inner-box">
                     <div class="logo"><a class="navbar-brand" href="index.html">Max Lambda</a></div>
                     <div class="main-menu d-none d-lg-block">
-                        <ul>
-                            <li><a class="navlink" href="index.html">Home</a></li>
-                            <li><a class="navlink" href="#">Offerings</a>
-                                <ul class="sub-menu">
-                                    <li><a href="mechanical.html">Mechanical</a></li>
-                                    <li><a href="instrumentation.html">Instrumentation</a></li>
-                                    <li><a href="safety.html">Safety</a></li>
-                                    <li><a href="consumables.html">Consumables</a></li>
-                                    <li><a href="electrical.html">Electrical</a></li>
-                                    <li><a href="spares.html">Spares</a></li>
-                                    <li><a href="communication.html">Communication</a></li>
-                                    <li><a href="general.html">General Items</a></li>
-                                </ul>
-                            </li>
-                            <li><a class="navlink" href="#">Product Portfolio</a>
-                                <ul class="sub-menu">
-                                    <li><a href="safety.html">Safety</a></li>
-                                    <li><a href="instrumentation.html">Instrumentation</a></li>
-                                    <li><a href="valves.html">Valves, Pipes & Fittings</a></li>
-                                    <li><a href="general.html">General</a></li>
-                                </ul>
-                            </li>
-                            <li><a class="navlink" href="contact.html">Contact Us</a></li>
-                        </ul>
+                        <?php include('utils/menu.php') ?>
                     </div>
                 </div>
             </div>
@@ -70,7 +47,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-6 text-center">
                 <div class="breadcrumb-title">
-                    <h1>COMPRESSORS</h1>
+                    <h1>RADIOS & TRANSPONDERS</h1>
                 </div>
             </div>
         </div>
@@ -84,23 +61,21 @@
             <div class="col-xl-6 col-lg-6">
                 <div class="about-img-wrap">
                     <div class="image-one">
-                        <img src="images/compressor.png" alt="">
+                        <img src="images/radios_transponders.jpg" alt="">
                     </div>                        
                 </div>
             </div>
             <div class="col-xl-6 col-lg-6">
                 <div class="about-content-wrap">
                     <div class="section-title">
-                        <h2>COMPRESSORS</h2>
+                        <h2>RADIOS & TRANSPONDERS</h2>
                     </div>
-                    <p>Compressors are essential for increasing the pressure of gases by reducing their volume.</p>
+                    <p>Radios and transponders enable reliable communication in challenging environments, essential for safety and operational coordination.</p>
                     <ul class="about-key mt-30">
-                        <li><i class="las la-check-square"></i><p>High Pressure</p></li>
-                        <li><i class="las la-check-square"></i><p>Air</p></li>
-                        <li><i class="las la-check-square"></i><p>Rotary</p></li>
-                        <li><i class="las la-check-square"></i><p>Reciprocating</p></li>
-                        <li><i class="las la-check-square"></i><p>Hydraulic</p></li>
-                        <li><i class="las la-check-square"></i><p>Spares and Kits</p></li>
+                        <li><i class="las la-check-square"></i><p>Handheld Radios</p></li>
+                        <li><i class="las la-check-square"></i><p>Marine Radios</p></li>
+                        <li><i class="las la-check-square"></i><p>Transceivers</p></li>
+                        <li><i class="las la-check-square"></i><p>Emergency Transponders</p></li>
                     </ul>
                 </div>
             </div>
@@ -114,12 +89,9 @@
         <div class="row align-items-center mt-120">
             <div class="col-12">
                 <div class="client-wrap owl-carousel">
-                    <div class="single-client"><a href="#"><img src="images/arial.png" alt="Ariel"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/compair.png" alt="CompAir"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/tuthil.png" alt="Tuthill"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/waukesha.png" alt="Waukesha"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/coltri.png" alt="Coltri"></a></div>
-                    
+                    <div class="single-client"><a href="#"><img src="images/motorola.png" alt="Motorola"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/icomm.png" alt="ICOM"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/kenwood.png" alt="Kenwood"></a></div>
                 </div>
             </div>
         </div>

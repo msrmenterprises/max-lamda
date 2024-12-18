@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
 
-    <title>Max Lambda Safety</title>
+    <title>Max Lambda products</title>
 
     <!--Favicon-->
     <link rel="icon" href="img/favicon.png" type="image/png">
@@ -37,7 +37,7 @@
     <!-- Metis Menu -->
     <link href="css/metismenu.css" rel="stylesheet">
     <!-- Style CSS -->
-    <link href="css/style.css?v=4" rel="stylesheet">
+    <link href="css/style.css?v=3" rel="stylesheet">
     <!-- Responsive CSS -->
     <link href="css/responsive.css" rel="stylesheet">
 
@@ -64,49 +64,40 @@
                     </div>
                     <!-- Main Menu  -->
                     <div class="main-menu d-none d-lg-block">
-                        <ul>
-                            <li ><a class="navlink" href="index.html">Home</a></li>
-                            <li ><a class="navlink" href="#">Offerings</a>
-                                <ul class="sub-menu">
-                                                <li><a href="mechanical.html">Mechanical</a></li>
-                                                <li><a href="instrumentation.html">Instrumentation</a></li>
-                                                <li><a href="safety.html">Safety</a></li>
-                                                <li><a href="consumables.html">Consumables</a></li>
-                                                <li><a href="electrical.html">Electrical</a></li>
-                                                <li><a href="spares.html">Spares</a></li>
-                                                <li><a href="communication.html">Communication</a></li>
-                                                <li><a href="general.html">General Items</a></li>
-
-                                            </ul>
-                            </li>
-                            <li><a class="navlink" href="#">Product Portfolio</a>
-                                <ul class="sub-menu">
-                                    <li><a href="safety.html">Safety</a></li>
-                                    <li><a href="instrumentation.html">Instrumentation</a></li>                                        
-                                    <li><a href="valves.html">Valves, Pipes & Fittings</a></li>
-                                    <li><a href="general.html">General</a></li>   
-
-                                </ul>
-                            </li>
-                           
-                           
-
-                            <li class="active"><a class="navlink" href="contact.html">Contact Us</a></li>
-                          
-                        </ul>
+                        <?php include('utils/menu.php') ?>
                     </div>
 
                     <div class="header-right ">
                         <!-- Cart Button  -->
-                        
-                        <a class="navlink1" href="/fr">Switch to French</a> 
+
+                        <!--
+  This code will translate page contents automatically (without user input)
+  Settings located at line 9, current script will translate english to estonian
+-->
+
+<div id="google_translate_element"></div>
+<script>
+    function googleTranslateElementInit() {
+        new google.translate.TranslateElement({
+            pageLanguage: 'Select Language', 
+            includedLanguages: 'en,fr', 
+            autoDisplay: false
+        }, 'google_translate_element');
+        var a = document.querySelector("#google_translate_element select");
+        a.selectedIndex=1;
+        a.dispatchEvent(new Event('change'));
+    }
+</script>
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+                        <!-- <a class="navlink1" href="/fr">Switch to French</a>  -->
                         <!-- <select class="form-select" aria-label="Default select example">
                             <option selected>Eng</option>
                             <option value="1">Hindi</option>
 
                         </select> -->
-            
-                                        </div>
+
+                    </div>
                     <!-- Mobile Menu -->
                     <div class="mobile-nav-bar d-block col-sm-1 col-6 d-lg-none">
                         <div class="mobile-nav-wrap">
@@ -121,8 +112,8 @@
                                 <nav class="sidebar-nav">
                                     <ul class="metismenu" id="mobile-menu">
                                         <li><a class="navlink" href="#">Homes</a></li>
-                                        <li><a class="has-arrow" href="#">Offerings</a>
-                                <ul class="sub-menu">
+                                        <li><a class="has-arrow" href="#">Engineering Divisions</a>
+                                            <ul class="sub-menu">
                                                 <li><a href="mechanical.html">Mechanical</a></li>
                                                 <li><a href="instrumentation.html">Instrumentation</a></li>
                                                 <li><a href="safety.html">Safety</a></li>
@@ -131,9 +122,9 @@
                                                 <li><a href="spares.html">Spares</a></li>
                                                 <li><a href="communication.html">Communication</a></li>
                                                 <li><a href="general.html">General Items</a></li>
-
+            
                                             </ul>
-                            </li>
+                                        </li>
                             <li><a class="navlink" href="#">Product Portfolio</a>
                                 <ul class="sub-menu">
                                     <li><a href="safety.html">Safety</a></li>
@@ -149,8 +140,8 @@
                                     </ul>
                                 </nav>
                                 <div class="action-bar">
-                                    <a href="mailto:info@max-lambda.com"><i class="las la-envelope"></i>info@max-lambda.com</a> | <a href="mailto:info@max-lambda.com"><i class="las la-envelope"></i>info@max-lambda.com</a>
-                                    <a href="tel:+225-0101828249"><i class="fal fa-phone"></i>+225-0101828249</a>
+                                    <a href="mailto:info@max-lambda.com"><i class="las la-envelope"></i>info@max-lambda.com</a>
+                                    <a href="tel:123-456-7890"><i class="fal fa-phone"></i>123-456-7890</a>
                                     <a href="contact.html" class="theme-btn">Contact Us</a>
                                 </div>
                             </div>
@@ -169,9 +160,10 @@
     <div class="overlay"></div> 
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-lg-6 text-center">
+            <div class="col-lg-9 text-center">
                 <div class="breadcrumb-title">
-                    <h1>Contact us</h1>
+                    <p class="customTag">Engineering Divisions:
+                        Expertise in supply services and engineering for Mechanical, Instrumentation, Electrical, Consummables and general MRO spares.</p>
                 </div>
                 <div class="breadcrumb-icon">
                     <i class="las la-angle-down"></i>                    
@@ -180,64 +172,78 @@
         </div>
     </div>
 </div>
-    <!-- Google Map Start-->
-    <!-- <div class="contact-page google-map">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3690.404245521138!2d91.80989606467384!3d22.338360085303748!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sdewanhat%20near%20Chattogram!5e0!3m2!1sen!2sbd!4v1677069314806!5m2!1sen!2sbd" width="600" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>        
-    </div> -->
-    
-    <!-- Contact Info -->
-
-    <div class="contact-info-wrapper section-padding pb-90">
+    <!-- Service Section -->
+    <div id="service-1" class="service-page service-section section-padding pb-90">
         <div class="container">
-            <div class="row">
-                <div class="col-xl-4 col-lg-4 col-md-6 col-12">
-                    <div class="single-contact-info">
-                        <div class="contact-icon">
-                            <img src="images/1.png" alt="">
-                        </div>
-                        <p>HUBB, Immeuble Skypark, 12 Rue de l'Industrie, Abidjan, Côte d’Ivoire</p>
+            <div class="row align-items-center">
+                <div class="col-xl-6 col-lg-6 col-md-6">
+                    <div class="section-title">
+                        <h6>What We Offer</h6>
+                        <h2>Our Divisions</h2>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-12">
-                    <div class="single-contact-info">
-                        <div class="contact-icon">
-                            <img src="images/2.png" alt="">
+                <div class="col-xl-6 col-lg-6 col-md-6">
+                    <div class="row">
+                        <div class="col-xl-6 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".2s">
+                            <div class="single-service-item">
+                                <div class="service-icon">
+                                    <span><i class="las la-check-square"></i></span>
+                                </div>
+                                <div class="service-title">
+                                    <h4><a class="cust_h4" href="motors.html">Motors</a></h4>
+                                </div>                        
+                            </div>
                         </div>
-                        <p>info@max-lambda.com <br/> info@max-lambda.com</p>                        
+                        <div class="col-xl-6 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".4s">
+                            <div class="single-service-item">
+                                <div class="service-icon">
+                                    <span><i class="las la-check-square"></i></span>
+                                </div>
+                                <div class="service-title">
+                                    <h4><a class="cust_h4" href="switches_switchgears.html">Switches & Switchgears</a></h4>
+                                </div>
+                                
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-4 col-md-6 col-12">
-                    <div class="single-contact-info">
-                        <div class="contact-icon">
-                            <img src="images/3.png" alt="">
+            </div>
+            <div class="row mt-60">
+                <div class="col-xl-3 col-lg-3 col-md-6 wow fadeInUp" data-wow-delay=".2s">
+                    <div class="single-service-item">
+                        <div class="service-icon">
+                            <span><i class="las la-check-square"></i></span>
                         </div>
-                        <p>+225-0101828249 <br/>+233-544057517<br/>+233-553019058</p>                                                
+                        <div class="service-title">
+                            <h4><a class="cust_h4" href="lighting_fixtures.html">Lighting Fixtures</a></h4>
+                        </div>                        
+                    </div>
+                </div>        
+                
+               
+            </div>
+            
+        </div>
+    </div>
+      <!-- CTA Section  -->
+    <div class="cta-section section-padding pt-50 pb-50 theme-bg">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-xl-8 col-lg-8 col-md-8">
+                    <div class="cta-title">
+                        <div class="section-title">
+                            <h2 class="text-white">Delivering Excellence</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-4 text-md-end">
+                    <div class="cta-btn">
+                        <a href="contact.html" class="white-btn">Contact Us</a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-
-    <!-- Contact Section  -->
-
-    <!-- <div class="contact-section">
-        <div class="contact-bg" data-background="assets/img/contact/contact-img.jpg">
-        </div>
-        <div class="contact-form-wrap gray-bg">
-            <div class="section-title">
-                <h6>Get in Touch</h6>
-                <h2>Don't hesitate to contact us for info</h2>
-            </div>
-            <div class="contact-form">
-                <form>
-                    <input type="text" placeholder="Name">
-                    <input type="email" placeholder="Email">
-                    <textarea name="message" id="message" cols="30" rows="10" placeholder="Message"></textarea>
-                    <input type="submit" value="Send">
-                </form>
-            </div>
-        </div>
-    </div> -->
 
     <!-- Footer Area -->
 

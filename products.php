@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
 
-    <title>Max Lambda Services</title>
+    <title>Max Lambda products</title>
 
     <!--Favicon-->
     <link rel="icon" href="img/favicon.png" type="image/png">
@@ -64,36 +64,7 @@
                     </div>
                     <!-- Main Menu  -->
                     <div class="main-menu d-none d-lg-block">
-                        <ul>
-                            <li ><a class="navlink" href="index.html">Home</a></li>
-                            <li><a class="has-arrow" href="#">Engineering Divisions</a>
-                                <ul class="sub-menu">
-                                    <li><a href="mechanical.html">Mechanical</a></li>
-                                    <li><a href="instrumentation.html">Instrumentation</a></li>
-                                    <li><a href="safety.html">Safety</a></li>
-                                    <li><a href="consumables.html">Consumables</a></li>
-                                    <li><a href="electrical.html">Electrical</a></li>
-                                    <li><a href="spares.html">Spares</a></li>
-                                    <li><a href="communication.html">Communication</a></li>
-                                    <li><a href="general.html">General Items</a></li>
-
-                                </ul>
-                            </li>
-                            <li><a class="navlink" href="#">Product Portfolio</a>
-                                <ul class="sub-menu">
-                                    <li><a href="safety.html">Safety</a></li>
-                                    <li><a href="instrumentation.html">Instrumentation</a></li>                                        
-                                    <li><a href="valves.html">Valves, Pipes & Fittings</a></li>
-                                    <li><a href="general.html">General</a></li>   
-
-                                </ul>
-                            </li>
-                           
-                           
-
-                            <li><a class="navlink" href="contact.html">Contact Us</a></li>
-                          
-                        </ul>
+                        <?php include('utils/menu.php') ?>
                     </div>
 
                     <div class="header-right ">
@@ -184,7 +155,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-6 text-center">
                 <div class="breadcrumb-title">
-                    <h1>Our Services</h1>
+                    <h1>Our Products</h1>
                 </div>
                 <div class="breadcrumb-icon">
                     <i class="las la-angle-down"></i>                    
@@ -200,7 +171,7 @@
                 <div class="col-xl-6 col-lg-6 col-md-6">
                     <div class="section-title">
                         <h6>What We Offer</h6>
-                        <h2>Our Services</h2>
+                        <h2>Our Products</h2>
                     </div>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-6">
@@ -211,7 +182,7 @@
                                     <span><i class="las la-check-square"></i></span>
                                 </div>
                                 <div class="service-title">
-                                    <h4>Metering <br>skids</h4>
+                                    <h4>Electrical</h4>
                                 </div>                        
                             </div>
                         </div>
@@ -221,7 +192,7 @@
                                     <span><i class="las la-check-square"></i></span>
                                 </div>
                                 <div class="service-title">
-                                    <h4>Turbine / Engine repair and spares</h4>
+                                    <h4>Instrumentation</h4>
                                 </div>
                                 
                             </div>
@@ -236,7 +207,7 @@
                             <span><i class="las la-check-square"></i></span>
                         </div>
                         <div class="service-title">
-                            <h4>Pipeline SCADA</h4>
+                            <h4>Valves, Pipes & Fittings</h4>
                         </div>                        
                     </div>
                 </div>
@@ -246,7 +217,7 @@
                             <span><i class="las la-check-square"></i></span>
                         </div>
                         <div class="service-title">
-                            <h4>Terminal<br> Automation</h4>
+                            <h4>IT <br>Hardware</h4>
                         </div>
                         
                     </div>
@@ -257,7 +228,7 @@
                             <span><i class="las la-check-square"></i></span>
                         </div>
                         <div class="service-title">
-                            <h4>Manpower</h4>
+                            <h4>Safety</h4>
                         </div>
                         
                     </div>
@@ -268,13 +239,60 @@
                             <span><i class="las la-check-square"></i></span>
                         </div>
                         <div class="service-title">
-                            <h4>Valve Maintenance</h4>
+                            <h4>Mechanical Equipment</h4>
                         </div>
                         
                     </div>
                 </div>
             </div>
-       
+            <div class="row mt-60">
+               
+              
+                <div class="col-xl-3 col-lg-3 col-md-6 wow fadeInUp" data-wow-delay=".6s">
+                    <div class="single-service-item">
+                        <div class="service-icon">
+                            <span><i class="las la-check-square"></i></span>
+                        </div>
+                        <div class="service-title">
+                            <h4>MRO* <br>spares</h4>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-6 wow fadeInUp" data-wow-delay=".8s">
+                    <div class="single-service-item b-none">
+                        <div class="service-icon">
+                            <span><i class="las la-check-square"></i></span>
+                        </div>
+                        <div class="service-title">
+                            <h4>Flame and Gas detection</h4>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-6 wow fadeInUp" data-wow-delay=".8s">
+                    <div class="single-service-item b-none">
+                        <div class="service-icon">
+                            <span><i class="las la-check-square"></i></span>
+                        </div>
+                        <div class="service-title">
+                            <h4>Hydraulics</h4>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-6 wow fadeInUp" data-wow-delay=".8s">
+                    <div class="single-service-item b-none">
+                        <div class="service-icon">
+                            <span><i class="las la-check-square"></i></span>
+                        </div>
+                        <div class="service-title">
+                            <h4>Consumbales</h4>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
       <!-- CTA Section  -->

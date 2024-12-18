@@ -234,7 +234,7 @@
                 </div>
             </div>
 
-            <?php include('utils/backtoDiv.php') ?>
+            <?php //include('utils/backtoDiv.php') ?>
 
             
         </div>

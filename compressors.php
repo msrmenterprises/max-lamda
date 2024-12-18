@@ -72,8 +72,7 @@
                     </div>
                     <p>Compressors are essential for increasing the pressure of gases by reducing their volume.</p>
                     <ul class="about-key mt-30">
-                        <li><i class="las la-check-square"></i><p>High Pressure</p></li>
-                        <li><i class="las la-check-square"></i><p>Air</p></li>
+                        <li><i class="las la-check-square"></i><p>High Pressure/Air</p></li>
                         <li><i class="las la-check-square"></i><p>Rotary</p></li>
                         <li><i class="las la-check-square"></i><p>Reciprocating</p></li>
                         <li><i class="las la-check-square"></i><p>Hydraulic</p></li>

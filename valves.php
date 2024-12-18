@@ -36,7 +36,7 @@
     <link href="css/backToTop.css" rel="stylesheet">
     <!-- Metis Menu -->
     <link href="css/metismenu.css" rel="stylesheet">
-    <?php include_once('utils/includ.php') ?>
+    <?php include('utils/includ.php') ?>
     <!-- Responsive CSS -->
     <link href="css/responsive.css" rel="stylesheet">
 

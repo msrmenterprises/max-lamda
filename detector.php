@@ -70,7 +70,7 @@
                     <div class="section-title">
                         <h2>DETECTORS</h2>
                     </div>
-                    <p>Pipes and fittings are essential components in industrial systems, providing reliable connections for fluid and gas transport.</p>
+                    <p>We offer reliable detectors for precise monitoring across various applications, including gas, flame, motion, and pressure detection. Designed for durability and accuracy, our detectors ensure safety and efficiency in critical environments.</p>
                     <ul class="about-key mt-30">
                         <li><i class="las la-check-square"></i><p>Resistance Temperature</p></li>
                         <li><i class="las la-check-square"></i><p>Gas</p></li>

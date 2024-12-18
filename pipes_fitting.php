@@ -70,7 +70,8 @@
                     <div class="section-title">
                         <h2>PIPES AND FITTINGS</h2>
                     </div>
-                    <p>Pipes and fittings are essential components in industrial systems, providing reliable connections for fluid and gas transport.</p>
+                    <!-- <p>Pipes and fittings are essential components in industrial systems, providing reliable connections for fluid and gas transport.</p> -->
+                     <p>Pipes and fittings are essential components in industrial systems, providing reliable connections for fluid and gas transport. Fittings in the industry, or what are known as welding fittings, are used in pipe systems to connect straight sections of pipes. These adapt to different shapes or sizes, so that each pipe segment achieves that at the end of the connection can pass all kinds of fluids through the pipe from gases to liquids.</p>
                     <ul class="about-key mt-30">
                         <li><i class="las la-check-square"></i><p>Flanges (Blind, Weld Neck, Threaded)</p></li>
                         <li><i class="las la-check-square"></i><p>Gaskets (Ring Type Joint, Spiral Wound)</p></li>

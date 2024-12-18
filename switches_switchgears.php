@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
-    <title>Max Lambda - LM 2500</title>
+    <title>Max Lambda - Switches Switchgears</title>
     <!-- Favicon -->
     <link rel="icon" href="img/favicon.png" type="image/png">
     <!-- Bootstrap CSS -->
@@ -48,7 +48,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-6 text-center">
                 <div class="breadcrumb-title">
-                    <h1>LM 2500</h1>
+                    <h1>Switches Switchgears</h1>
                 </div>
             </div>
         </div>
@@ -69,9 +69,10 @@
             <div class="col-xl-6 col-lg-6">
                 <div class="about-content-wrap">
                     <div class="section-title">
-                        <h2>LM 2500</h2>
+                        <h2>Switches Switchgears</h2>
                     </div>
-                    <p>We supply genuine spares for LM2500 turbines to ensure peak performance and extended service life. These parts meet stringent quality standards for reliable and efficient operation
+                    <p>We partner with leading brands to offer robust switches and switchgear for optimal electrical system control and safety. These products meet global standards and provide reliable power distribution solutions.
+
 
 
                     </p>

@@ -61,9 +61,9 @@
         <div class="row align-items-center">
             <div class="col-xl-6 col-lg-6">
                 <div class="about-img-wrap">
-                    <div class="image-one">
+                    <!-- <div class="image-one">
                         <img src="images/hvac.png" alt="">
-                    </div>                        
+                    </div>                         -->
                 </div>
             </div>
             <div class="col-xl-6 col-lg-6">

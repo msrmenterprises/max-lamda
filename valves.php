@@ -183,9 +183,12 @@
                         
                         <h2>VALVES</h2>
                     </div>
-                    <p>Fittings in the industry, or what are known as welding fittings, are <b>used in pipe systems to connect straight sections of pipes.</b> These adapt to different shapes or sizes, so that each pipe segment achieves that at the end of the connection can pass all kinds of fluids through the pipe from gases to liquids.</p>
+                    <!-- <p>Fittings in the industry, or what are known as welding fittings, are <b>used in pipe systems to connect straight sections of pipes.</b> These adapt to different shapes or sizes, so that each pipe segment achieves that at the end of the connection can pass all kinds of fluids through the pipe from gases to liquids.</p>
                     <p>The valve controls the flow of fluids by stopping and starting, adjusting the amounts, controlling the direction, regulating pressure, or relieving pressure.</p>
-                    <ul class="about-key mt-30">
+                     -->
+                    <p>“The valve controls the flow of fluids by stopping and starting, adjusting the amounts, controlling the direction, regulating pressure, or relieving pressure. Our Supplies: “
+                    </p>
+                     <ul class="about-key mt-30">
                         <li><i class="las la-check-square"></i>
                             <p>Ball</p>
                         </li>
@@ -207,9 +210,7 @@
                         <li><i class="las la-check-square"></i>
                             <p>Block and Bleed</p>
                         </li>
-                        <li><i class="las la-check-square"></i>
-                            <p>Spares and Spares Kit</p>
-                        </li>
+                        
                         <li><i class="las la-check-square"></i>
                             <p>Pressure Safety</p>
                         </li>
@@ -224,6 +225,9 @@
                         </li>
                         <li><i class="las la-check-square"></i>
                             <p>Hydraulic</p>
+                        </li>
+                        <li><i class="las la-check-square"></i>
+                            <p>Spares and Spares Kit</p>
                         </li>
                         
                     </ul>

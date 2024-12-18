@@ -74,10 +74,11 @@
                     <ul class="about-key mt-30">
                         <li><i class="las la-check-square"></i><p>Resistance Temperature</p></li>
                         <li><i class="las la-check-square"></i><p>Gas</p></li>
-                        <li><i class="las la-check-square"></i><p>Spares and spares kits</p></li>
+                        
                         <li><i class="las la-check-square"></i><p>Calibration Kits</p></li>
                         <li><i class="las la-check-square"></i><p>Smoke & Heat</p></li>
                         <li><i class="las la-check-square"></i><p>Fire</p></li>
+                        <li><i class="las la-check-square"></i><p>Spares and spares kits</p></li>
                     </ul>
                 </div>
             </div>

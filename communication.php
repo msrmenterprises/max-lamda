@@ -60,7 +60,7 @@
                 <div class="header-inner-box">
                     <!-- Logo -->
                     <div class="logo">
-                        <a class="navbar-brand" href="index.html">Max Lambda</a>
+                        <a class="navbar-brand" href="index">Max Lambda</a>
                     </div>
                     <!-- Main Menu  -->
                     <div class="main-menu d-none d-lg-block">
@@ -114,35 +114,35 @@
                                         <li><a class="navlink" href="#">Homes</a></li>
                                         <li><a class="has-arrow" href="#">Engineering Divisions</a>
                                             <ul class="sub-menu">
-                                                <li><a href="mechanical.html">Mechanical</a></li>
-                                                <li><a href="instrumentation.html">Instrumentation</a></li>
-                                                <li><a href="safety.html">Safety</a></li>
-                                                <li><a href="consumables.html">Consumables</a></li>
-                                                <li><a href="electrical.html">Electrical</a></li>
-                                                <li><a href="spares.html">Spares</a></li>
-                                                <li><a href="communication.html">Communication</a></li>
-                                                <li><a href="general.html">General Items</a></li>
+                                                <li><a href="mechanical">Mechanical</a></li>
+                                                <li><a href="instrumentation">Instrumentation</a></li>
+                                                <li><a href="safety">Safety</a></li>
+                                                <li><a href="consumables">Consumables</a></li>
+                                                <li><a href="electrical">Electrical</a></li>
+                                                <li><a href="spares">Spares</a></li>
+                                                <li><a href="communication">Communication</a></li>
+                                                <li><a href="general">General Items</a></li>
             
                                             </ul>
                                         </li>
                             <li><a class="navlink" href="#">Product Portfolio</a>
                                 <ul class="sub-menu">
-                                    <li><a href="safety.html">Safety</a></li>
-                                    <li><a href="instrumentation.html">Instrumentation</a></li>                                        
-                                    <li><a href="valves.html">Valves, Pipes & Fittings</a></li>
-                                    <li><a href="general.html">General</a></li>                      
+                                    <li><a href="safety">Safety</a></li>
+                                    <li><a href="instrumentation">Instrumentation</a></li>                                        
+                                    <li><a href="valves">Valves, Pipes & Fittings</a></li>
+                                    <li><a href="general">General</a></li>                      
                         
                                 </ul>
                             </li>
 
-                                        <li><a href="contact.html">Contact</a></li>
+                                        <li><a href="contact">Contact</a></li>
 
                                     </ul>
                                 </nav>
                                 <div class="action-bar">
                                     <a href="mailto:info@max-lambda.com"><i class="las la-envelope"></i>info@max-lambda.com</a>
                                     <a href="tel:123-456-7890"><i class="fal fa-phone"></i>123-456-7890</a>
-                                    <a href="contact.html" class="theme-btn">Contact Us</a>
+                                    <a href="contact" class="theme-btn">Contact Us</a>
                                 </div>
                             </div>
                         </div>
@@ -190,7 +190,7 @@
                                     <span><i class="las la-check-square"></i></span>
                                 </div>
                                 <div class="service-title">
-                                    <h4><a class="cust_h4" href="gps_navigator.html">GPS Navigator</a></h4>
+                                    <h4><a class="cust_h4" href="gps_navigator">GPS Navigator</a></h4>
                                 </div>                        
                             </div>
                         </div>
@@ -200,7 +200,7 @@
                                     <span><i class="las la-check-square"></i></span>
                                 </div>
                                 <div class="service-title">
-                                    <h4><a class="cust_h4" href="radio_transponders.html">Radios & Transponders </a></h4>
+                                    <h4><a class="cust_h4" href="radio_transponders">Radios & Transponders </a></h4>
                                 </div>
                                 
                             </div>
@@ -225,7 +225,7 @@
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-4 text-md-end">
                     <div class="cta-btn">
-                        <a href="contact.html" class="white-btn">Contact Us</a>
+                        <a href="contact" class="white-btn">Contact Us</a>
                     </div>
                 </div>
             </div>
@@ -260,7 +260,7 @@
         <div class="search-inner">
             <div class="container">
                 <button class="close-search"><span class="la la-times"></span></button>
-                <form method="post" action="index.html">
+                <form method="post" action="index">
                     <div class="form-group">
                         <input type="search" name="search-field" value="" placeholder="Type your keyword" required="">
                         <button type="submit"><i class="fal fa-search"></i></button>
@@ -280,7 +280,7 @@
         </div>
         <div class="logo-side mb-30">
             <div class="logo">
-                <a class="navbar-brand" href="index.html"><img src="img/logo-white.png" alt=""></a>
+                <a class="navbar-brand" href="index"><img src="img/logo-white.png" alt=""></a>
             </div>
         </div>
         <div class="side-info">
@@ -290,7 +290,7 @@
                 <img src="img/offcanvas-img.jpg" alt="">
 
                 <div class="mt-30 mb-30">
-                    <a href="contact.html" class="theme-btn">Get In Touch</a>
+                    <a href="contact" class="theme-btn">Get In Touch</a>
                 </div>
             </div>
             <div class="social-area-wrap">

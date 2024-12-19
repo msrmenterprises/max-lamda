@@ -31,7 +31,7 @@
         <div class="navigation">
             <div class="container">
                 <div class="header-inner-box">
-                    <div class="logo"><a class="navbar-brand" href="index.html">Max Lambda</a></div>
+                    <div class="logo"><a class="navbar-brand" href="index">Max Lambda</a></div>
                     <div class="main-menu d-none d-lg-block">
                         <?php include('utils/menu.php') ?>
                     </div>

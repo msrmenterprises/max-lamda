@@ -90,9 +90,9 @@ industry standards and operational efficiency.
 </div>
 
 <!-- Clients Section -->
-<!-- <div class="client-section section-padding pt-0">
+<div class="client-section section-padding pt-0">
     <div class="container">
-        <div class="row align-items-center mt-120">
+        <!-- <div class="row align-items-center mt-120">
             <div class="col-12">
                 <div class="client-wrap owl-carousel">
                     <div class="single-client"><a href="#"><img src="images/msa.png" alt="MSA"></a></div>
@@ -103,9 +103,9 @@ industry standards and operational efficiency.
                     <div class="single-client"><a href="#"><img src="images/tyco.png" alt="Tyco"></a></div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
-</div> -->
+</div>
 
 <!-- Footer Area -->
 <footer class="footer-area">

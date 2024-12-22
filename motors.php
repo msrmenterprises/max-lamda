@@ -59,14 +59,14 @@
 <div id="about-2" class="about-page about-section section-padding pb-0">
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-xl-6 col-lg-6">
+            <!-- <div class="col-xl-6 col-lg-6">
                 <div class="about-img-wrap">
-                    <!-- <div class="image-one">
+                    <div class="image-one">
                         <img src="images/hvac.png" alt="">
-                    </div>                         -->
+                    </div>                        
                 </div>
-            </div>
-            <div class="col-xl-6 col-lg-6">
+            </div> -->
+            <div class="col-xl-12 col-lg-12">
                 <div class="about-content-wrap">
                     <div class="section-title">
                         <h2>MOTORS</h2>
@@ -91,9 +91,9 @@
 </div>
 
 <!-- Clients Section -->
-<!-- <div class="client-section section-padding pt-0">
+<div class="client-section section-padding pt-0">
     <div class="container">
-        <div class="row align-items-center mt-120">
+        <!-- <div class="row align-items-center mt-120">
             <div class="col-12">
                 <div class="client-wrap owl-carousel">
                     <div class="single-client"><a href="#"><img src="images/carrier.png" alt="carrier"></a></div>
@@ -104,9 +104,9 @@
                    
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
-</div> -->
+</div>
 
 <!-- Footer Area -->
 <footer class="footer-area">

@@ -162,8 +162,8 @@
         <div class="row justify-content-center">
             <div class="col-lg-9 text-center">
                 <div class="breadcrumb-title">
-                    <p class="customTag">Engineering Divisions:
-Expertise in supply services and engineering for Mechanical, Instrumentation, Electrical, Consummables and general MRO spares.</p>
+                    <p class="customTag">
+                    Expertise in supply services and engineering for Mechanical, Instrumentation, Electrical, Consummables and general MRO spares.</p>
                 </div>
                 <div class="breadcrumb-icon">
                     <i class="las la-angle-down"></i>                    

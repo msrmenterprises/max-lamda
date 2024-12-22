@@ -89,9 +89,9 @@
         <div class="row align-items-center mt-120">
             <div class="col-12">
                 <div class="client-wrap owl-carousel">
-                    <div class="single-client"><a href="#"><img src="images/motorola.png" alt="Motorola"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/icomm.png" alt="ICOM"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/kenwood.png" alt="Kenwood"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/JOTRON.png" alt="JOTRON"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/FURUNO.png" alt="FURUNO"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/MOTORLA.png" alt="MOTORLA"></a></div>
                 </div>
             </div>
         </div>

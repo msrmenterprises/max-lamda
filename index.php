@@ -113,39 +113,12 @@
                                     <i class="las la-times-circle"></i>
                                 </button>
                                 <nav class="sidebar-nav">
-                                    <ul class="metismenu" id="mobile-menu">
-                                        <li><a class="navlink" href="#">Homes</a></li>
-                                        <li><a class="has-arrow" href="#">Engineering Divisions</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="mechanical.html">Mechanical</a></li>
-                                                <li><a href="instrumentation.html">Instrumentation</a></li>
-                                                <li><a href="safety.html">Safety</a></li>
-                                                <li><a href="consumables.html">Consumables</a></li>
-                                                <li><a href="electrical.html">Electrical</a></li>
-                                                <li><a href="spares.html">Spares</a></li>
-                                                <li><a href="communication.html">Communication</a></li>
-                                                <li><a href="general.html">General Items</a></li>
-
-                                            </ul>
-                                         </li>
-                                        <li><a class="navlink" href="#">Product Portfolio</a>
-                                            <ul class="sub-menu">
-                                                <li><a href="safety.html">Safety</a></li>
-                                                <li><a href="instrumentation.html">Instrumentation</a></li>                                        
-                                                <li><a href="valves.html">Valves, Pipes & Fittings</a></li>
-                                                <li><a href="general.html">General</a></li>                      
-                                    
-                                            </ul>
-                                        </li>
-
-                                        <li><a href="contact.html">Contact</a></li>
-
-                                    </ul>
+                                <?php include('utils/mobileMenu.php') ?>
                                 </nav>
                                 <div class="action-bar">
                                     <a href="mailto:info@Max Lambda.net"><i class="las la-envelope"></i>info@max-lambda.com</a>
                                     <a href="tel:+225-0101828249"><i class="fal fa-phone"></i>+225-0101828249</a>
-                                    <a href="contact.html" class="theme-btn">Contact Us</a>
+                                    <a href="contact" class="theme-btn">Contact Us</a>
                                 </div>
                             </div>
                         </div>

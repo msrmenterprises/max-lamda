@@ -91,7 +91,7 @@
                 <div class="client-wrap owl-carousel">
                     <div class="single-client"><a href="#"><img src="images/JOTRON.png" alt="JOTRON"></a></div>
                     <div class="single-client"><a href="#"><img src="images/FURUNO.png" alt="FURUNO"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/MOTORLA.png" alt="MOTORLA"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/MOTOROLA.png" alt="MOTOROLA"></a></div>
                 </div>
             </div>
         </div>

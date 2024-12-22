@@ -161,7 +161,7 @@
 
 <div id="home-2" class="homepage-slides owl-carousel">
     <div class="single-slide-item">
-        <div class="image-layer" style="background-image: url(images/banner03.png);">
+        <div class="image-layer" style="background-image: url(images/banner03.png)">
             <!-- <div class="overlay"></div> -->
         </div>        
         <div class="hero-area-content">
@@ -181,7 +181,7 @@ Excellence
         </div>
     </div>
     <div class="single-slide-item">
-        <div class="image-layer" style="background-image: url(images/banner01.png;">
+        <div class="image-layer" style="background-image: url(images/banner01.png">
             <!-- <div class="overlay"></div> -->
         </div>
         <div class="hero-area-content">

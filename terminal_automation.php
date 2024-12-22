@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
-    <title>Max Lambda - Detector</title>
+    <title>Max Lambda - Terminal Automation</title>
     <!-- Favicon -->
     <link rel="icon" href="img/favicon.png" type="image/png">
     <!-- Bootstrap CSS -->
@@ -47,7 +47,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-6 text-center">
                 <div class="breadcrumb-title">
-                    <h1>DETECTOR</h1>
+                    <h1>TERMINAL AUTOMATION</h1>
                 </div>
             </div>
         </div>
@@ -58,20 +58,24 @@
 <div id="about-2" class="about-page about-section section-padding pb-0">
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-xl-6 col-lg-6">
+            <!-- <div class="col-xl-6 col-lg-6">
                 <div class="about-img-wrap">
                     <div class="image-one">
                         <img src="images/detectors.png" alt="">
                     </div>                        
                 </div>
-            </div>
-            <div class="col-xl-6 col-lg-6">
+            </div> -->
+            <div class="col-xl-12 col-lg-12">
                 <div class="about-content-wrap">
                     <div class="section-title">
-                        <h2>DETECTORS</h2>
+                        <h2>TERMINAL AUTOMATION</h2>
                     </div>
-                    <p>We offer reliable detectors for precise monitoring across various applications, including gas, flame, motion, and pressure detection. Designed for durability and accuracy, our detectors ensure safety and efficiency in critical environments.</p>
-                    <ul class="about-key mt-30">
+                    <p>Our terminal automation solutions streamline operations, improving
+the management of inventory, loading processes, and system efficiency for
+storage and distribution terminals.
+
+</p>
+                    <!-- <ul class="about-key mt-30">
                         <li><i class="las la-check-square"></i><p>Resistance Temperature</p></li>
                         <li><i class="las la-check-square"></i><p>Gas</p></li>
                         
@@ -79,7 +83,7 @@
                         <li><i class="las la-check-square"></i><p>Smoke & Heat</p></li>
                         <li><i class="las la-check-square"></i><p>Fire</p></li>
                         <li><i class="las la-check-square"></i><p>Spares and spares kits</p></li>
-                    </ul>
+                    </ul> -->
                 </div>
             </div>
         </div>
@@ -89,7 +93,7 @@
 <!-- Clients Section -->
 <div class="client-section section-padding pt-0">
     <div class="container">
-        <div class="row align-items-center mt-120">
+        <!-- <div class="row align-items-center mt-120">
             <div class="col-12">
                 <div class="client-wrap owl-carousel">
                     <div class="single-client"><a href="#"><img src="images/msa.png" alt="MSA"></a></div>
@@ -100,7 +104,7 @@
                     <div class="single-client"><a href="#"><img src="images/tyco.png" alt="Tyco"></a></div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
 </div>
 

@@ -65,7 +65,7 @@
                     </div>                        
                 </div>
             </div>
-            <div class="col-xl-12 col-lg-12">
+            <div class="col-xl-6 col-lg-6">
                 <div class="about-content-wrap">
                     <div class="section-title">
                         <h2>TERMINAL AUTOMATION</h2>

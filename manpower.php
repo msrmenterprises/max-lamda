@@ -58,13 +58,13 @@
 <div id="about-2" class="about-page about-section section-padding pb-0">
     <div class="container">
         <div class="row align-items-center">
-            <!-- <div class="col-xl-6 col-lg-6">
+            <div class="col-xl-6 col-lg-6">
                 <div class="about-img-wrap">
                     <div class="image-one">
-                        <img src="images/detectors.png" alt="">
+                        <img src="images/MANPOWER.png" alt="">
                     </div>                        
                 </div>
-            </div> -->
+            </div>
             <div class="col-xl-12 col-lg-12">
                 <div class="about-content-wrap">
                     <div class="section-title">

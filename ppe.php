@@ -83,6 +83,7 @@
                         <li><i class="las la-check-square"></i><p>Face shields</p></li>
                     </ul>
                 </div>
+                <?php include('utils/backtoDiv.php') ?>
             </div>
         </div>
     </div>

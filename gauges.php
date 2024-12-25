@@ -78,6 +78,7 @@
                         <li><i class="las la-check-square"></i><p>Vacuum Gauges</p></li>
                     </ul>
                 </div>
+                <?php include('utils/backtoDiv.php') ?>
             </div>
         </div>
     </div>

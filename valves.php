@@ -185,7 +185,7 @@
                     <!-- <p>Fittings in the industry, or what are known as welding fittings, are <b>used in pipe systems to connect straight sections of pipes.</b> These adapt to different shapes or sizes, so that each pipe segment achieves that at the end of the connection can pass all kinds of fluids through the pipe from gases to liquids.</p>
                     <p>The valve controls the flow of fluids by stopping and starting, adjusting the amounts, controlling the direction, regulating pressure, or relieving pressure.</p>
                      -->
-                    <p>“The valve controls the flow of fluids by stopping and starting, adjusting the amounts, controlling the direction, regulating pressure, or relieving pressure. Our Supplies: “
+                    <p>The valve controls the flow of fluids by stopping and starting, adjusting the amounts, controlling the direction, regulating pressure, or relieving pressure. Our Supplies: 
                     </p>
                      <ul class="about-key mt-30">
                         <li><i class="las la-check-square"></i>
@@ -226,15 +226,16 @@
                             <p>Hydraulic</p>
                         </li>
                         <li><i class="las la-check-square"></i>
-                            <p><?php include('utils/includ.php') ?></p>
+                        <p>Spares and Spares Kit</p>
                         </li>
                         
                     </ul>
                    
                 </div>
+                <?php include('utils/backtoDiv.php') ?>
             </div>
 
-            <?php include('utils/backtoDiv.php') ?>
+            
 
             
         </div>

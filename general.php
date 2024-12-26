@@ -146,78 +146,34 @@
     </div>
 </div>
     <!-- Service Section -->
-    <div id="service-1" class="service-page service-section section-padding pb-90">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-xl-6 col-lg-6 col-md-6">
+    <div id="about-2" class="about-page about-section section-padding pb-0">
+    <div class="container">
+        <div class="row align-items-center">
+            <!-- <div class="col-xl-6 col-lg-6">
+                <div class="about-img-wrap">
+                    <div class="image-one">
+                        <img src="images/actuators.png" alt="">
+                    </div>                        
+                </div>
+            </div> -->
+            <div class="col-xl-12 col-lg-12">
+                <div class="about-content-wrap">
                     <div class="section-title">
-                        <h6>What We Offer</h6>
-                        <h2>Our Divisions</h2>
+                        <h2>GENERAL ITEMS</h2>
                     </div>
+                    <p>We offer a wide range of high-quality products to meet all your essential needs. From household items to workshop tools, we have you covered. Our Supplies:</p>
+                    <ul class="about-key mt-30">
+                        <li><i class="las la-check-square"></i><p>IT Hardware (Hard Drives, Servers, Printer Cartridges, etc)</p></li>
+                        <li><i class="las la-check-square"></i><p>Kitchen Equipment (Electric ovens, Commercial floor standing mixers etc)</p></li>
+                        <li><i class="las la-check-square"></i><p>Workshop Tools (Torque Guns, Wrench sets etc)</p></li>
+                        
+                    </ul>
                 </div>
-                <div class="col-xl-6 col-lg-6 col-md-6">
-                    <div class="row">
-                        <div class="col-xl-6 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".2s">
-                            <div class="single-service-item">
-                                <div class="service-icon">
-                                    <span><i class="las la-check-square"></i></span>
-                                </div>
-                                <div class="service-title">
-                                    <h4><a class="cust_h4" href="airpods">Airpods</a></h4>
-                                </div>                        
-                            </div>
-                        </div>
-                        <div class="col-xl-6 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".4s">
-                            <div class="single-service-item">
-                                <div class="service-icon">
-                                    <span><i class="las la-check-square"></i></span>
-                                </div>
-                                <div class="service-title">
-                                    <h4><a class="cust_h4" href="kitchen">Kitchen Equipments</a></h4>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row mt-60">
-                <div class="col-xl-3 col-lg-3 col-md-6 wow fadeInUp" data-wow-delay=".2s">
-                    <div class="single-service-item">
-                        <div class="service-icon">
-                            <span><i class="las la-check-square"></i></span>
-                        </div>
-                        <div class="service-title">
-                            <h4><a class="cust_h4" href="it_hardware">IT Hardware</a></h4>
-                        </div>                        
-                    </div>
-                </div>
-                
-                
-                
-            </div>
-            
-        </div>
-    </div>
-      <!-- CTA Section  -->
-    <div class="cta-section section-padding pt-50 pb-50 theme-bg">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-xl-8 col-lg-8 col-md-8">
-                    <div class="cta-title">
-                        <div class="section-title">
-                            <h2 class="text-white">Delivering Excellence</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-4 text-md-end">
-                    <div class="cta-btn">
-                        <a href="contact" class="white-btn">Contact Us</a>
-                    </div>
-                </div>
+                <?php include('utils/backtoDiv.php') ?>
             </div>
         </div>
     </div>
+</div>
 
     <!-- Footer Area -->
 

@@ -175,6 +175,25 @@
     </div>
 </div>
 
+<!-- Clients Section -->
+<div class="client-section section-padding pt-0">
+    <div class="container">
+        <!-- <div class="row align-items-center mt-120">
+        <div><h2 class="brandssupp">BRANDS SUPPORTED</h2></div>
+            <div class="col-12">
+                <div class="client-wrap owl-carousel">
+                    <div class="single-client"><a href="#"><img src="images/morin.png" alt="morin"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/schischek.png" alt="schischek"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/biffi.png" alt="biffi"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/koso.png" alt="koso"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/rotork.png" alt="rotork"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/velan.png" alt="velan"></a></div>
+                </div>
+            </div>
+        </div> -->
+    </div>
+</div>
+
     <!-- Footer Area -->
 
     <footer class="footer-area">

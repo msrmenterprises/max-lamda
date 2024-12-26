@@ -109,29 +109,7 @@
                                 <button type="button" class="close-nav">
                                     <i class="las la-times-circle"></i>
                                 </button>
-                                <nav class="sidebar-nav">
-                                    <ul class="metismenu" id="mobile-menu">
-                                        <li><a class="navlink" href="#">Homes</a></li>
-                                        <li><a class="has-arrow" href="#">Offerings</a>
-                                <ul class="sub-menu">
-                                    <li><a href="products.html">Our Products</a></li>
-                                    <li><a href="services.html">Our Services</a></li>
-                                </ul>
-                            </li>
-                            <li><a class="navlink" href="#">Product Portfolio</a>
-                                <ul class="sub-menu">
-                                    <li><a href="safety.html">Safety</a></li>
-                                    <li><a href="instrumentation.html">Instrumentation</a></li>                                        
-                                    <li><a href="valves.html">Valves, Pipes & Fittings</a></li>
-                                    <li><a href="general.html">General</a></li>                      
-                        
-                                </ul>
-                            </li>
-
-                                        <li><a href="contact.html">Contact</a></li>
-
-                                    </ul>
-                                </nav>
+                                <?php include('utils/mobileMenu.php') ?>
                                 <div class="action-bar">
                                     <a href="mailto:info@Max Lamda.net"><i class="las la-envelope"></i>info@Max Lamda.net</a>
                                     <a href="tel:123-456-7890"><i class="fal fa-phone"></i>123-456-7890</a>

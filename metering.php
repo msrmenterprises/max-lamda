@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
-    <title>Max Lambda - Metering</title>
+    <title>Max Lambda - METERING SKIDS</title>
     <!-- Favicon -->
     <link rel="icon" href="img/favicon.png" type="image/png">
     <!-- Bootstrap CSS -->
@@ -47,7 +47,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-6 text-center">
                 <div class="breadcrumb-title">
-                    <h1>METERING</h1>
+                    <h1>METERING SKIDS</h1>
                 </div>
             </div>
         </div>
@@ -68,7 +68,7 @@
             <div class="col-xl-6 col-lg-6">
                 <div class="about-content-wrap">
                     <div class="section-title">
-                        <h2>METERING</h2>
+                        <h2>METERING SKIDS</h2>
                     </div>
                     <p>We provide precision-engineered metering skids for accurate
 measurement and monitoring of fluids in pipelines, ensuring compliance with

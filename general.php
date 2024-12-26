@@ -149,14 +149,14 @@
     <div id="about-2" class="about-page about-section section-padding pb-0">
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-xl-6 col-lg-6">
+            <div class="col-xl-4 col-lg-4">
                 <div class="about-img-wrap">
                     <div class="image-one">
                         <img src="images/General/Monitor.png" alt="">
                     </div>                        
                 </div>
             </div>
-            <div class="col-xl-6 col-lg-6">
+            <div class="col-xl-8 col-lg-8">
                 <div class="about-content-wrap">
                     <div class="section-title">
                         <h2>GENERAL ITEMS</h2>
@@ -188,7 +188,7 @@
                     <div class="single-client"><a href="#"><img src="images/General/BRANDS/DeWALTLogo.png" alt="Dewalt"></a></div>
                     <div class="single-client"><a href="#"><img src="images/General/BRANDS/facom.png" alt="facom"></a></div>
                     <div class="single-client"><a href="#"><img src="images/General/BRANDS/Firmer.png" alt="Firmer"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/General/BRANDS/Fujimak_logo.png" alt="Fujimak"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/General/BRANDS/Fujimak_logo.jpg" alt="Fujimak"></a></div>
                     <div class="single-client"><a href="#"><img src="images/General/BRANDS/Mitutoyo.png" alt="Mitutoyo"></a></div>
                     <div class="single-client"><a href="#"><img src="images/General/BRANDS/rational-ag8897.jpg" alt="Rational"></a></div>
                     <div class="single-client"><a href="#"><img src="images/General/BRANDS/Stanley-Logo.jpg" alt="Stanley"></a></div>

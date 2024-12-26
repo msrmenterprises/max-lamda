@@ -61,9 +61,9 @@
         <div class="row align-items-center">
             <div class="col-xl-6 col-lg-6">
                 <div class="about-img-wrap">
-                    <!-- <div class="image-one">
-                        <img src="images/hvac.png" alt="">
-                    </div>                         -->
+                    <div class="image-one">
+                        <img src="images/ANTIRUST/IMAGE.png" alt="">
+                    </div>                        
                 </div>
             </div>
             <div class="col-xl-6 col-lg-6">
@@ -92,23 +92,23 @@
 </div>
 
 <!-- Clients Section -->
-<!-- <div class="client-section section-padding pt-0">
+<div class="client-section section-padding pt-0">
     <div class="container">
         <div class="row align-items-center mt-120">
             <div><h2 class="brandssupp">BRANDS SUPPORTED</h2></div>
             <div class="col-12">
                 <div class="client-wrap owl-carousel">
-                    <div class="single-client"><a href="#"><img src="images/carrier.png" alt="carrier"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/york.png" alt="York"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/tuthil.png" alt="tuthil"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/ebmpapst.png" alt="EBM Papst"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/safeair.png" alt="safeair"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/ANTIRUST/brands/Belzona.png" alt="carrier"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/ANTIRUST/brands/Chockfast.png" alt="York"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/ANTIRUST/brands/CortecVPCI.png" alt="tuthil"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/ANTIRUST/brands/DowCorning.png" alt="EBM Papst"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/ANTIRUST/brands/ZOK.png" alt="safeair"></a></div>
                    
                 </div>
             </div>
         </div>
     </div>
-</div> -->
+</div>
 
 <!-- Footer Area -->
 <footer class="footer-area">

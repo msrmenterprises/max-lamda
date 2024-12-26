@@ -59,14 +59,14 @@
 <div id="about-2" class="about-page about-section section-padding pb-0">
     <div class="container">
         <div class="row align-items-center">
-            <!-- <div class="col-xl-6 col-lg-6">
+            <div class="col-xl-6 col-lg-6">
                 <div class="about-img-wrap">
                     <div class="image-one">
-                        <img src="images/hvac.png" alt="">
+                        <img src="images/MOTORS/Motors.png" alt="">
                     </div>                        
                 </div>
-            </div> -->
-            <div class="col-xl-12 col-lg-12">
+            </div>
+            <div class="col-xl-6 col-lg-6">
                 <div class="about-content-wrap">
                     <div class="section-title">
                         <h2>MOTORS</h2>
@@ -93,19 +93,20 @@
 <!-- Clients Section -->
 <div class="client-section section-padding pt-0">
     <div class="container">
-        <!-- <div class="row align-items-center mt-120">
+        <div class="row align-items-center mt-120">
             <div><h2 class="brandssupp">BRANDS SUPPORTED</h2></div>
             <div class="col-12">
                 <div class="client-wrap owl-carousel">
-                    <div class="single-client"><a href="#"><img src="images/carrier.png" alt="carrier"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/york.png" alt="York"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/tuthil.png" alt="tuthil"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/ebmpapst.png" alt="EBM Papst"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/safeair.png" alt="safeair"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/MOTORS/BRANDS/abb.png" alt="abb"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/MOTORS/BRANDS/CEMP.png" alt="CEMP"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/MOTORS/BRANDS/siemens.png" alt="siemens"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/MOTORS/BRANDS/Sunfab.png" alt="Sunfab"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/MOTORS/BRANDS/VME.png" alt="VME"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/MOTORS/BRANDS/weg.png" alt="safeawegir"></a></div>
                    
                 </div>
             </div>
-        </div> -->
+        </div>
     </div>
 </div>
 

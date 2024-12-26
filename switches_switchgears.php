@@ -59,14 +59,14 @@
 <div id="about-2" class="about-page about-section section-padding pb-0">
     <div class="container">
         <div class="row align-items-center">
-            <!-- <div class="col-xl-6 col-lg-6">
+            <div class="col-xl-6 col-lg-6">
                 <div class="about-img-wrap">
                     <div class="image-one">
-                        <img src="images/hvac.png" alt="">
+                        <img src="images/SWITCHES/SWITCHES.png" alt="">
                     </div>                        
                 </div>
-            </div> -->
-            <div class="col-xl-12 col-lg-12">
+            </div>
+            <div class="col-xl-6 col-lg-6">
                 <div class="about-content-wrap">
                     <div class="section-title">
                         <h2>Switches Switchgears</h2>
@@ -93,19 +93,20 @@
 <!-- Clients Section -->
 <div class="client-section section-padding pt-0">
     <div class="container">
-        <!-- <div class="row align-items-center mt-120">
+        <div class="row align-items-center mt-120">
             <div><h2 class="brandssupp">BRANDS SUPPORTED</h2></div>
             <div class="col-12">
                 <div class="client-wrap owl-carousel">
-                    <div class="single-client"><a href="#"><img src="images/carrier.png" alt="carrier"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/york.png" alt="York"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/tuthil.png" alt="tuthil"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/ebmpapst.png" alt="EBM Papst"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/safeair.png" alt="safeair"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/SWITCHES/BRAND/ABB.png" alt="ABB"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/SWITCHES/BRAND/EATON.png" alt="EATON"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/SWITCHES/BRAND/EMERSON.png" alt="EMERSON"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/SWITCHES/BRAND/SALZER.png" alt="SALZER"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/SWITCHES/BRAND/SIEMENS.png" alt="SIEMENS"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/SWITCHES/BRAND/TRAFAG.png" alt="TRAFAG"></a></div>
                    
                 </div>
             </div>
-        </div> -->
+        </div>
     </div>
 </div>
 

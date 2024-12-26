@@ -59,14 +59,14 @@
 <div id="about-2" class="about-page about-section section-padding pb-0">
     <div class="container">
         <div class="row align-items-center">
-            <!-- <div class="col-xl-6 col-lg-6">
+            <div class="col-xl-6 col-lg-6">
                 <div class="about-img-wrap">
                     <div class="image-one">
-                        <img src="images/hvac.png" alt="">
+                        <img src="images/LIGHTING/lights.png" alt="">
                     </div>                        
                 </div>
-            </div> -->
-            <div class="col-xl-12 col-lg-12">
+            </div>
+            <div class="col-xl-6 col-lg-6">
                 <div class="about-content-wrap">
                     <div class="section-title">
                         <h2>LIGHTING FIXTURES</h2>
@@ -92,19 +92,22 @@
 <!-- Clients Section -->
 <div class="client-section section-padding pt-0">
     <div class="container">
-        <!-- <div class="row align-items-center mt-120">
+        <div class="row align-items-center mt-120">
             <div><h2 class="brandssupp">BRANDS SUPPORTED</h2></div>
             <div class="col-12">
                 <div class="client-wrap owl-carousel">
-                    <div class="single-client"><a href="#"><img src="images/carrier.png" alt="carrier"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/york.png" alt="York"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/tuthil.png" alt="tuthil"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/ebmpapst.png" alt="EBM Papst"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/safeair.png" alt="safeair"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/LIGHTING/BRANDS/atom.png" alt="atom"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/LIGHTING/BRANDS/chalmit.png" alt="chalmit"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/LIGHTING/BRANDS/glamox.png" alt="glamox"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/LIGHTING/BRANDS/nightsearcher.png" alt="nightsearcher"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/LIGHTING/BRANDS/orga.png" alt="orga"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/LIGHTING/BRANDS/waron.png" alt="waron"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/LIGHTING/BRANDS/wolf.png" alt="wolf"></a></div>
+
                    
                 </div>
             </div>
-        </div> -->
+        </div>
     </div>
 </div>
 

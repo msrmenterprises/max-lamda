@@ -59,14 +59,14 @@
 <div id="about-2" class="about-page about-section section-padding pb-0">
     <div class="container">
         <div class="row align-items-center">
-            <!-- <div class="col-xl-6 col-lg-6">
+            <div class="col-xl-6 col-lg-6">
                 <div class="about-img-wrap">
                     <div class="image-one">
-                        <img src="images/hvac.png" alt="">
+                        <img src="images/LM2500SPARES/LM2500.png" alt="">
                     </div>                        
                 </div>
-            </div> -->
-            <div class="col-xl-12 col-lg-12">
+            </div>
+            <div class="col-xl-6 col-lg-6">
                 <div class="about-content-wrap">
                     <div class="section-title">
                         <h2>LM 2500</h2>
@@ -92,19 +92,18 @@
 <!-- Clients Section -->
 <div class="client-section section-padding pt-0">
     <div class="container">
-        <!-- <div class="row align-items-center mt-120">
+        <div class="row align-items-center mt-120">
             <div><h2 class="brandssupp">BRANDS SUPPORTED</h2></div>
             <div class="col-12">
                 <div class="client-wrap owl-carousel">
-                    <div class="single-client"><a href="#"><img src="images/carrier.png" alt="carrier"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/york.png" alt="York"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/tuthil.png" alt="tuthil"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/ebmpapst.png" alt="EBM Papst"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/safeair.png" alt="safeair"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/LM2500SPARES/BRAND/bakerhughes.png" alt="bakerhughes"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/LM2500SPARES/BRAND/tranter.png" alt="tranter"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/LM2500SPARES/BRAND/waukesha.png" alt="waukesha"></a></div>
+                   
                    
                 </div>
             </div>
-        </div> -->
+        </div>
     </div>
 </div>
 

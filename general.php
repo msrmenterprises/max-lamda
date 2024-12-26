@@ -149,14 +149,14 @@
     <div id="about-2" class="about-page about-section section-padding pb-0">
     <div class="container">
         <div class="row align-items-center">
-            <!-- <div class="col-xl-6 col-lg-6">
+            <div class="col-xl-6 col-lg-6">
                 <div class="about-img-wrap">
                     <div class="image-one">
-                        <img src="images/actuators.png" alt="">
+                        <img src="images/General/Monitor.png" alt="">
                     </div>                        
                 </div>
-            </div> -->
-            <div class="col-xl-12 col-lg-12">
+            </div>
+            <div class="col-xl-6 col-lg-6">
                 <div class="about-content-wrap">
                     <div class="section-title">
                         <h2>GENERAL ITEMS</h2>
@@ -179,17 +179,21 @@
 <div class="client-section section-padding pt-0">
     <div class="container">
         <div class="row align-items-center mt-120">
-            <!-- <div><h2 class="brandssupp">BRANDS SUPPORTED</h2></div>
+            <div><h2 class="brandssupp">BRANDS SUPPORTED</h2></div>
             <div class="col-12">
                 <div class="client-wrap owl-carousel">
-                    <div class="single-client"><a href="#"><img src="images/morin.png" alt="morin"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/schischek.png" alt="schischek"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/biffi.png" alt="biffi"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/koso.png" alt="koso"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/rotork.png" alt="rotork"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/velan.png" alt="velan"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/General/Brands/Apple.png" alt="Apple"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/General/Brands/Bosch-Logo-2002.png" alt="Bosch"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/General/Brands/Dell_Logo.png" alt="Dell"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/General/Brands/DeWALTLogo.png" alt="Dewalt"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/General/Brands/facom.png" alt="facom"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/General/Brands/Firmer.png" alt="Firmer"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/General/Brands/Fujimak_logo.png" alt="Fujimak"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/General/Brands/Mitutoyo.png" alt="Mitutoyo"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/General/Brands/rational-ag8897.jpg" alt="Rational"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/General/Brands/Stanley-Logo.jpg" alt="Stanley"></a></div>
                 </div>
-            </div> -->
+            </div>
         </div>
     </div>
 </div>

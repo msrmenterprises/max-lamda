@@ -182,16 +182,16 @@
             <div><h2 class="brandssupp">BRANDS SUPPORTED</h2></div>
             <div class="col-12">
                 <div class="client-wrap owl-carousel">
-                    <div class="single-client"><a href="#"><img src="images/General/Brands/Apple.png" alt="Apple"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/General/Brands/Bosch-Logo-2002.png" alt="Bosch"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/General/Brands/Dell_Logo.png" alt="Dell"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/General/Brands/DeWALTLogo.png" alt="Dewalt"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/General/Brands/facom.png" alt="facom"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/General/Brands/Firmer.png" alt="Firmer"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/General/Brands/Fujimak_logo.png" alt="Fujimak"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/General/Brands/Mitutoyo.png" alt="Mitutoyo"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/General/Brands/rational-ag8897.jpg" alt="Rational"></a></div>
-                    <div class="single-client"><a href="#"><img src="images/General/Brands/Stanley-Logo.jpg" alt="Stanley"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/General/BRANDS/Apple.png" alt="Apple"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/General/BRANDS/Bosch-Logo-2002.png" alt="Bosch"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/General/BRANDS/Dell_Logo.png" alt="Dell"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/General/BRANDS/DeWALTLogo.png" alt="Dewalt"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/General/BRANDS/facom.png" alt="facom"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/General/BRANDS/Firmer.png" alt="Firmer"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/General/BRANDS/Fujimak_logo.png" alt="Fujimak"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/General/BRANDS/Mitutoyo.png" alt="Mitutoyo"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/General/BRANDS/rational-ag8897.jpg" alt="Rational"></a></div>
+                    <div class="single-client"><a href="#"><img src="images/General/BRANDS/Stanley-Logo.jpg" alt="Stanley"></a></div>
                 </div>
             </div>
         </div>

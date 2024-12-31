@@ -3,7 +3,7 @@
                 <div class="row">
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <a href="index.html" class="logo">
-                            Max Lambda
+                            Max Lambda Global
                         </a>
                         <p>Operations in Mauritius, Cote D'Voir, Ghana, Nigeria, Namibia
 
@@ -15,7 +15,7 @@
 
                         </p>
                         <p>info@max-lambda.com </p>
-                        <p>+225-0101828249  | +233-544057517 | +233-553019058</p>
+                        <p>+233-544057517 | +233-553019058</p>
                         <!-- <div class="company-email">
                             <a href="info@max-lambda.com">info@max-lambda.com</a> | <a href="info@max-lambda.com">info@max-lambda.com</a>
 

@@ -60,7 +60,7 @@
                 <div class="header-inner-box">
                     <!-- Logo -->
                     <div class="logo">
-                        <a class="navbar-brand" href="index.html">Max Lambda</a>
+                        <a class="navbar-brand" href="index">Max Lambda</a>
                     </div>
                     <!-- Main Menu  -->
                     <div class="main-menu d-none d-lg-block">
@@ -93,7 +93,7 @@
                                 <div class="action-bar">
                                     <a href="mailto:info@max-lambda.com"><i class="las la-envelope"></i>info@max-lambda.com</a> | <a href="mailto:info@max-lambda.com"><i class="las la-envelope"></i>info@max-lambda.com</a>
                                     <a href="tel:+225-0101828249"><i class="fal fa-phone"></i>+225-0101828249</a>
-                                    <a href="contact.html" class="theme-btn">Contact Us</a>
+                                    <a href="contact" class="theme-btn">Contact Us</a>
                                 </div>
                             </div>
                         </div>
@@ -137,7 +137,7 @@
                         <div class="contact-icon">
                             <img src="images/1.png" alt="">
                         </div>
-                        <p>HUBB, Immeuble Skypark, 12 Rue de l'Industrie, Abidjan, Côte d’Ivoire</p>
+                        <p>Challenge House, Swaniker Street 52, Abelemkpe Accra, Ghana</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-12">
@@ -145,7 +145,7 @@
                         <div class="contact-icon">
                             <img src="images/2.png" alt="">
                         </div>
-                        <p>info@max-lambda.com <br/> info@max-lambda.com</p>                        
+                        <p>INFO@MAX-LAMDA.COM <br/> INFO@MAX-LAMBDA.COM</p>                        
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6 col-12">
@@ -153,7 +153,7 @@
                         <div class="contact-icon">
                             <img src="images/3.png" alt="">
                         </div>
-                        <p>+225-0101828249 <br/>+233-544057517<br/>+233-553019058</p>                                                
+                        <p>+233-544057517<br/>+233-553019058</p>                                                
                     </div>
                 </div>
             </div>
@@ -209,7 +209,7 @@
         <div class="search-inner">
             <div class="container">
                 <button class="close-search"><span class="la la-times"></span></button>
-                <form method="post" action="index.html">
+                <form method="post" action="index">
                     <div class="form-group">
                         <input type="search" name="search-field" value="" placeholder="Type your keyword" required="">
                         <button type="submit"><i class="fal fa-search"></i></button>
@@ -229,7 +229,7 @@
         </div>
         <div class="logo-side mb-30">
             <div class="logo">
-                <a class="navbar-brand" href="index.html"><img src="img/logo-white.png" alt=""></a>
+                <a class="navbar-brand" href="index"><img src="img/logo-white.png" alt=""></a>
             </div>
         </div>
         <div class="side-info">
@@ -239,7 +239,7 @@
                 <img src="img/offcanvas-img.jpg" alt="">
 
                 <div class="mt-30 mb-30">
-                    <a href="contact.html" class="theme-btn">Get In Touch</a>
+                    <a href="contact" class="theme-btn">Get In Touch</a>
                 </div>
             </div>
             <div class="social-area-wrap">

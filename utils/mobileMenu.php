@@ -14,12 +14,14 @@
 
         </ul>
         </li>
-    <li><a class="navlink" href="#">Product Portfolio</a>
+    <li><a class="navlink" href="#">Services</a>
         <ul class="sub-menu">
-            <li><a href="safety">Safety</a></li>
-            <li><a href="instrumentation">Instrumentation</a></li>                                        
-            <li><a href="valves">Valves, Pipes & Fittings</a></li>
-            <li><a href="general">General</a></li>                      
+            <li><a href="metering">Metering Skids</a></li>
+            <li><a href="turbine">Turbine/Engine Repair and Spares</a></li>                                        
+            <li><a href="pipeline">Pipeline SCADA</a></li>
+            <li><a href="terminal_automation">Terminal Automation</a></li>  
+            <li><a href="manpower">Manpower</a></li> 
+            <li><a href="fire_gas">Fire and Gas Detection Systems</a></li>                        
 
         </ul>
     </li>

@@ -858,7 +858,7 @@ Excellence
                     <img src="images/clogo.png" alt="">
                 </div>
                 <div class="clients-img-inner">
-                    <img src="images/clogo5.png" alt="">
+                    <img src="images/spicee.jpeg" alt="">
                 </div>
                 
                 <div class="clients-img-inner">
@@ -872,7 +872,7 @@ Excellence
                
                
                 <div class="clients-img-inner">
-                    <img src="images/clogo9.png" alt="">
+                    <img src="images/tango.jpeg" alt="">
                 </div>
                
                
